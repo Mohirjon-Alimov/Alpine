@@ -703,7 +703,7 @@ main {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  background-image: url(../../img/bgc-img4.png);
+  background-image: url(../img/bgc-img4.png);
 }
 
 .hero-content2 .hero-content2__item1 .person .per-info {
@@ -873,7 +873,7 @@ main {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  background-image: url(../../img/bgc-img4.png);
+  background-image: url(../img/bgc-img4.png);
 }
 
 .hero-content3 .hero-content3__item1 .person .per-info {
