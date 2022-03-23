@@ -379,13 +379,13 @@ img {
 
 header {
   font-family: 'Paytone One', sans-serif;
-  background-image: url(../../img/bg-img.png);
-  background-repeat: no-repeat;
 }
 
 .container1 {
   width: 1400px;
   height: 770px;
+  background-image: url(../../img/bg-img.png);
+  background-repeat: no-repeat;
   padding-top: 45px;
   padding-left: 60px;
 }
