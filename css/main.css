@@ -384,7 +384,7 @@ header {
 .container1 {
   width: 1400px;
   height: 770px;
-  background-image: url(../../img/bg-img.png);
+  background-image: url(../img/bg-img.png);
   background-repeat: no-repeat;
   padding-top: 45px;
   padding-left: 60px;
@@ -425,7 +425,7 @@ header {
 
 main {
   height: 1669px;
-  background-image: url(../../img/bgc-img2.png);
+  background-image: url(../img/bgc-img2.png);
   background-repeat: no-repeat;
   padding-bottom: 80px;
 }
@@ -1042,6 +1042,6 @@ main {
 }
 
 footer {
-  background-image: url(../../img/footer-background.png);
+  background-image: url(../img/footer-background.png);
   background-repeat: no-repeat;
 }
